@@ -1,0 +1,31 @@
+body {
+    background-color: #ACC8E5;
+    color: #112A46;
+}
+
+body, h1, h2, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 54px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 80vh;
+}
+
+nav {
+    font-family: 'Orbitron', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
