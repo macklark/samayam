@@ -25,12 +25,12 @@ To run Samayam locally on your machine, follow these simple steps:
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/macklark/legendary-happiness.git
+   git clone https://github.com/macklark/samayam.git
 
 2. Open the project folder:
 
     ```bash
-   cd legendary-happiness
+   cd samayam
 
 ## Contributing
 
