@@ -11,7 +11,7 @@ Samayam is a simple clock project created using HTML, CSS, and JavaScript. It di
 
 ## Demo
 
-You can check out the live demo of Samayam [here](https://your-demo-link.com).
+You can check out the live demo of Samayam [here](https://macklark.github.io/samayam/).
 
 ## Features
 
